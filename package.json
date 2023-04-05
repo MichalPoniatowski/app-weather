@@ -1,0 +1,27 @@
+{
+  "name": "app-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichalPoniatowski/app-weather.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichalPoniatowski/app-weather/issues"
+  },
+  "homepage": "https://github.com/MichalPoniatowski/app-weather#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "parcel": "^2.8.3",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.1"
+  }
+}
