@@ -5,9 +5,37 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="/src/assets/main.css" rel="stylesheet" />
-    <title>Weather</title>
+    <title>WeatherApp</title>
   </head>
   <body>
-    <h1 class="text-3xl font-bold underline">HELOO POGODYNKA</h1>
+    <include src="src/components/navbar.html"></include>
+    <div class="container mx-auto my-20 max-w-[50%]">
+      <include src="src/components/input.html"></include>
+    </div>
+    <p
+      id="error-message"
+      class="font-bold text-red-700 text-2xl mx-20 my-20"
+    ></p>
+    <div>
+      <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
+        <table
+          class="w-full text-sm text-left text-gray-500 dark:text-gray-400"
+        >
+          <thead
+            class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400"
+          >
+            <tr>
+              <th scope="col" class="px-6 py-3">Feature:</th>
+              <th scope="col" class="px-6 py-3">Value:</th>
+            </tr>
+          </thead>
+          <tbody id="tabel-row">
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <pre id="data" class="mx-20 my-20"></pre>
   </body>
+  <script src="app.js" type="module" async></script>
 </html>

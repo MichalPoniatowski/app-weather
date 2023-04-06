@@ -1,4 +1,4 @@
-5800
+5801
 77C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\dist\unpacker\feature.js133251890296166370 0
 57C:\IT PROJECTS\app-weather\node_modules\yaml\package.json133251890276888317 0
 54C:\IT PROJECTS\app-weather\node_modules\glob\README.md133251893590088132 0
@@ -18,6 +18,18 @@
 46C:\IT PROJECTS\app-weather\node_modules\base-x133251890245697643 1
 39C:\IT PROJECTS\app-weather\package.json133251893628995764 0
 84C:\IT PROJECTS\app-weather\node_modules\sucrase\dist\transformers\RootTransformer.js133251893615695593 0
+61C:\IT PROJECTS\app-weather\node_modules\node-releases\LICENSE133251890241180435 0
+61C:\IT PROJECTS\app-weather\node_modules\@parcel\graph\LICENSE133251890241470258 0
+88C:\IT PROJECTS\app-weather\node_modules\autoprefixer\lib\hacks\text-emphasis-position.js133251893606468657 0
+71C:\IT PROJECTS\app-weather\node_modules\@parcel\source-map\dist\node.js133251890257150545 0
+38C:\IT PROJECTS\app-weather\.posthtmlrc133252467120265967 0
+81C:\IT PROJECTS\app-weather\node_modules\autoprefixer\lib\hacks\image-rendering.js133251893602700995 0
+62C:\IT PROJECTS\app-weather\node_modules\nth-check\lib\parse.js133251890252953146 0
+127C:\IT PROJECTS\app-weather\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\a\index.js133251890274389861 0
+46C:\IT PROJECTS\app-weather\node_modules\@lezer133251890217330125 1
+55C:\IT PROJECTS\app-weather\node_modules\@parcel\workers133251890275449207 1
+68C:\IT PROJECTS\app-weather\node_modules\type-fest\source\except.d.ts133251890260298607 0
+71C:\IT PROJECTS\app-weather\node_modules\entities\lib\maps\entities.json133251890257730193 0
 37C:\IT PROJECTS\app-weather\.gitignore133251915360593764 0
 82C:\IT PROJECTS\app-weather\node_modules\@parcel\utils\test\input\config\config.cjs133251890245397826 0
 76C:\IT PROJECTS\app-weather\node_modules\tailwindcss\lib\util\createPlugin.js133251893605179443 0
@@ -25,12 +37,8 @@
 90C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\features\css-media-resolution.js133251890290759721 0
 83C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\features\ambient-light.js133251890267833927 0
 50C:\IT PROJECTS\app-weather\node_modules\domhandler133251890252983129 1
-62C:\IT PROJECTS\app-weather\node_modules\nth-check\lib\parse.js133251890252953146 0
-127C:\IT PROJECTS\app-weather\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\a\index.js133251890274389861 0
-46C:\IT PROJECTS\app-weather\node_modules\@lezer133251890217330125 1
-55C:\IT PROJECTS\app-weather\node_modules\@parcel\workers133251890275449207 1
-68C:\IT PROJECTS\app-weather\node_modules\type-fest\source\except.d.ts133251890260298607 0
-71C:\IT PROJECTS\app-weather\node_modules\entities\lib\maps\entities.json133251890257730193 0
+79C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\features\svg-fonts.js133251890332270204 0
+37C:\IT PROJECTS\app-weather\.postcssrc133252398771648374 0
 75C:\IT PROJECTS\app-weather\node_modules\@parcel\core\test\fixtures\main-mjs133251890292598581 1
 71C:\IT PROJECTS\app-weather\node_modules\sucrase\dist\esm\NameManager.js133251893607767836 0
 83C:\IT PROJECTS\app-weather\node_modules\tailwindcss\src\oxide\cli\build\watching.ts133251893626386164 0
@@ -43,14 +51,6 @@
 75C:\IT PROJECTS\app-weather\node_modules\any-promise\register\es6-promise.js133251893593498742 0
 72C:\IT PROJECTS\app-weather\node_modules\@swc\helpers\lib\_ts_metadata.js133251890280746341 0
 46C:\IT PROJECTS\app-weather\node_modules\braces133251890250704640 1
-65C:\IT PROJECTS\app-weather\node_modules\terser\lib\utils\index.js133251890273350509 0
-77C:\IT PROJECTS\app-weather\node_modules\tailwindcss\src\util\getAllConfigs.js133251893615615652 0
-72C:\IT PROJECTS\app-weather\node_modules\fast-glob\out\providers\matchers133251893602591050 1
-77C:\IT PROJECTS\app-weather\node_modules\posthtml\node_modules\posthtml-parser133251890251094313 1
-71C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\regions\BA.js133251890275998861 0
-31C:\IT PROJECTS\app-weather\dist133251910483555803 1
-65C:\IT PROJECTS\app-weather\node_modules\brace-expansion\README.md133251893586687415 0
-66C:\IT PROJECTS\app-weather\node_modules\v8-compile-cache\README.md133251890248435950 0
 77C:\IT PROJECTS\app-weather\node_modules\autoprefixer\lib\hacks\align-items.js133251893588082114 0
 65C:\IT PROJECTS\app-weather\node_modules\lines-and-columns\LICENSE133251890241120483 0
 64C:\IT PROJECTS\app-weather\node_modules\normalize-range\index.js133251893584766370 0
@@ -59,10 +59,14 @@
 121C:\IT PROJECTS\app-weather\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\foo.js133251890269602829 0
 30C:\IT PROJECTS\app-weather\src133251888988464375 1
 59C:\IT PROJECTS\app-weather\node_modules\path-parse\index.js133251893584077063 0
-68C:\IT PROJECTS\app-weather\node_modules\source-map\lib\quick-sort.js133251890256600907 0
-70C:\IT PROJECTS\app-weather\node_modules\yaml\dist\warnings-1000a372.js133251890276098809 0
-44C:\IT PROJECTS\app-weather\postcss.config.js133251907758713829 0
-77C:\IT PROJECTS\app-weather\node_modules\tailwindcss\src\public\load-config.js133251893617607363 0
+65C:\IT PROJECTS\app-weather\node_modules\terser\lib\utils\index.js133251890273350509 0
+77C:\IT PROJECTS\app-weather\node_modules\tailwindcss\src\util\getAllConfigs.js133251893615615652 0
+72C:\IT PROJECTS\app-weather\node_modules\fast-glob\out\providers\matchers133251893602591050 1
+77C:\IT PROJECTS\app-weather\node_modules\posthtml\node_modules\posthtml-parser133251890251094313 1
+71C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\regions\BA.js133251890275998861 0
+31C:\IT PROJECTS\app-weather\dist133252399088842928 1
+65C:\IT PROJECTS\app-weather\node_modules\brace-expansion\README.md133251893586687415 0
+66C:\IT PROJECTS\app-weather\node_modules\v8-compile-cache\README.md133251890248435950 0
 97C:\IT PROJECTS\app-weather\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\050-modules.md133251890278567281 0
 99C:\IT PROJECTS\app-weather\node_modules\@swc\helpers\lib\_class_static_private_field_destructure.js133251890270342381 0
 48C:\IT PROJECTS\app-weather\node_modules\css-tree133251890288481128 1
@@ -128,7 +132,7 @@
 79C:\IT PROJECTS\app-weather\node_modules\tailwindcss\lib\util\escapeClassName.js133251893607767836 0
 70C:\IT PROJECTS\app-weather\node_modules\@parcel\watcher\src\Watcher.cc133251890259529071 0
 46C:\IT PROJECTS\app-weather\node_modules\@types133251890217300129 1
-41C:\IT PROJECTS\app-weather\src\index.html133251917021469490 0
+41C:\IT PROJECTS\app-weather\src\index.html133252399066058382 0
 72C:\IT PROJECTS\app-weather\node_modules\@parcel\source-map\dist\types.js133251890260908221 0
 53C:\IT PROJECTS\app-weather\node_modules\color-convert133251890252673319 1
 69C:\IT PROJECTS\app-weather\node_modules\@swc\helpers\src\_type_of.mjs133251890290060150 0
@@ -973,6 +977,8 @@
 58C:\IT PROJECTS\app-weather\node_modules\yaml\dist\types.js133251890275309297 0
 59C:\IT PROJECTS\app-weather\node_modules\braces\lib\utils.js133251890257690217 0
 57C:\IT PROJECTS\app-weather\node_modules\yaml\dist\util.js133251890275659073 0
+68C:\IT PROJECTS\app-weather\node_modules\source-map\lib\quick-sort.js133251890256600907 0
+70C:\IT PROJECTS\app-weather\node_modules\yaml\dist\warnings-1000a372.js133251890276098809 0
 62C:\IT PROJECTS\app-weather\node_modules\to-regex-range\LICENSE133251890244278532 0
 59C:\IT PROJECTS\app-weather\node_modules\yaml\browser\map.js133251890259269238 0
 54C:\IT PROJECTS\app-weather\node_modules\wrappy\LICENSE133251893585706232 0
@@ -1089,7 +1095,7 @@
 69C:\IT PROJECTS\app-weather\node_modules\update-browserslist-db\cli.js133251890244458411 0
 85C:\IT PROJECTS\app-weather\node_modules\csso\lib\restructure\2-initialMergeRuleset.js133251890245028063 0
 74C:\IT PROJECTS\app-weather\node_modules\@swc\helpers\src\_create_super.mjs133251890285952710 0
-50C:\IT PROJECTS\app-weather\dist\index.4a0c1c7e.css133251910483246014 0
+50C:\IT PROJECTS\app-weather\dist\index.4a0c1c7e.css133252399088575911 0
 64C:\IT PROJECTS\app-weather\node_modules\util-deprecate\README.md133251893584098186 0
 86C:\IT PROJECTS\app-weather\node_modules\css-tree\lib\syntax\pseudo\nth-last-of-type.js133251890282604776 0
 56C:\IT PROJECTS\app-weather\node_modules\wrappy\wrappy.js133251893586677429 0
@@ -1622,13 +1628,13 @@
 69C:\IT PROJECTS\app-weather\node_modules\csso\lib\clean\Declaration.js133251890269952610 0
 73C:\IT PROJECTS\app-weather\node_modules\tailwindcss\src\util\parseGlob.js133251893618639997 0
 65C:\IT PROJECTS\app-weather\node_modules\svgo\dist\svgo.browser.js133251890280755919 0
+70C:\IT PROJECTS\app-weather\node_modules\tailwindcss\lib\lib\offsets.js133251893617941337 0
+83C:\IT PROJECTS\app-weather\node_modules\source-map-support\register-hook-require.js133251890243379080 0
+81C:\IT PROJECTS\app-weather\node_modules\tailwindcss\src\util\parseObjectStyles.js133251893618669979 0
 66C:\IT PROJECTS\app-weather\node_modules\@parcel\graph\src\Graph.js133251890258359803 0
 68C:\IT PROJECTS\app-weather\node_modules\lightningcss\node\index.d.ts133251890262087488 0
 71C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\regions\PK.js133251890330392934 0
 79C:\IT PROJECTS\app-weather\node_modules\sucrase\dist\util\getIdentifierNames.js133251893602501102 0
-70C:\IT PROJECTS\app-weather\node_modules\tailwindcss\lib\lib\offsets.js133251893617941337 0
-83C:\IT PROJECTS\app-weather\node_modules\source-map-support\register-hook-require.js133251890243379080 0
-81C:\IT PROJECTS\app-weather\node_modules\tailwindcss\src\util\parseObjectStyles.js133251893618669979 0
 69C:\IT PROJECTS\app-weather\node_modules\@swc\helpers\lib\_to_array.js133251890279956418 0
 92C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\features\prefers-reduced-motion.js133251890330600685 0
 67C:\IT PROJECTS\app-weather\node_modules\@parcel\fs\lib\index.js.map133251890262147452 0
@@ -1665,6 +1671,7 @@
 81C:\IT PROJECTS\app-weather\node_modules\tailwindcss\lib\util\parseObjectStyles.js133251893618659992 0
 86C:\IT PROJECTS\app-weather\node_modules\@swc\helpers\src\_class_private_field_init.mjs133251890284473613 0
 79C:\IT PROJECTS\app-weather\node_modules\tailwindcss\src\public\default-theme.js133251893606668528 0
+77C:\IT PROJECTS\app-weather\node_modules\tailwindcss\src\public\load-config.js133251893617607363 0
 82C:\IT PROJECTS\app-weather\node_modules\@parcel\core\test\fixtures\parcel\index.js133251890280566048 0
 80C:\IT PROJECTS\app-weather\node_modules\tailwindcss\src\public\resolve-config.js133251893620396955 0
 70C:\IT PROJECTS\app-weather\node_modules\sucrase\dist\TokenProcessor.js133251893616415953 0
@@ -2721,7 +2728,7 @@
 85C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\features\canvas-blending.js133251890282464860 0
 64C:\IT PROJECTS\app-weather\node_modules\@parcel\transformer-json133251890246077408 1
 62C:\IT PROJECTS\app-weather\node_modules\picomatch\CHANGELOG.md133251890256101197 0
-54C:\IT PROJECTS\app-weather\dist\index.4a0c1c7e.css.map133251910483305976 0
+54C:\IT PROJECTS\app-weather\dist\index.4a0c1c7e.css.map133252399088705821 0
 93C:\IT PROJECTS\app-weather\node_modules\@parcel\runtime-js\src\helpers\browser\wasm-loader.js133251890272980736 0
 64C:\IT PROJECTS\app-weather\node_modules\resolve\example\async.js133251893594308255 0
 63C:\IT PROJECTS\app-weather\node_modules\resolve\example\sync.js133251893608147595 0
@@ -3087,7 +3094,6 @@
 68C:\IT PROJECTS\app-weather\node_modules\normalize-range\package.json133251893583046373 0
 65C:\IT PROJECTS\app-weather\node_modules\autoprefixer\lib\utils.js133251893606798441 0
 67C:\IT PROJECTS\app-weather\node_modules\normalize-path\package.json133251893583026390 0
-61C:\IT PROJECTS\app-weather\node_modules\node-releases\LICENSE133251890241180435 0
 66C:\IT PROJECTS\app-weather\node_modules\@parcel\graph\package.json133251890264446028 0
 66C:\IT PROJECTS\app-weather\node_modules\msgpackr-extract\README.md133251890252993122 0
 97C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\features\css-container-queries-style.js133251890288271267 0
@@ -4579,7 +4585,6 @@
 82C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\features\style-scoped.js133251890332170237 0
 90C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\features\subresource-bundling.js133251890332180267 0
 91C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\features\subresource-integrity.js133251890332190248 0
-79C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\features\svg-fonts.js133251890332270204 0
 78C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\features\svg-html.js133251890332300182 0
 79C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\features\svg-html5.js133251890332310184 0
 78C:\IT PROJECTS\app-weather\node_modules\caniuse-lite\data\features\svg-smil.js133251890332338001 0
@@ -4680,10 +4685,6 @@
 85C:\IT PROJECTS\app-weather\node_modules\autoprefixer\lib\hacks\grid-template-areas.js133251893602481111 0
 72C:\IT PROJECTS\app-weather\node_modules\@parcel\transformer-html\LICENSE133251890241490243 0
 79C:\IT PROJECTS\app-weather\node_modules\autoprefixer\lib\hacks\grid-template.js133251893602531089 0
-61C:\IT PROJECTS\app-weather\node_modules\@parcel\graph\LICENSE133251890241470258 0
-88C:\IT PROJECTS\app-weather\node_modules\autoprefixer\lib\hacks\text-emphasis-position.js133251893606468657 0
-71C:\IT PROJECTS\app-weather\node_modules\@parcel\source-map\dist\node.js133251890257150545 0
-81C:\IT PROJECTS\app-weather\node_modules\autoprefixer\lib\hacks\image-rendering.js133251893602700995 0
 77C:\IT PROJECTS\app-weather\node_modules\autoprefixer\lib\hacks\mask-border.js133251893603590434 0
 85C:\IT PROJECTS\app-weather\node_modules\autoprefixer\lib\hacks\overscroll-behavior.js133251893603840271 0
 75C:\IT PROJECTS\app-weather\node_modules\autoprefixer\lib\hacks\pixelated.js133251893603890262 0
@@ -5339,7 +5340,7 @@
 105C:\IT PROJECTS\app-weather\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file133251890282584786 1
 114C:\IT PROJECTS\app-weather\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-exclude133251890282664730 1
 115C:\IT PROJECTS\app-weather\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory133251890283554187 1
-55C:\IT PROJECTS\app-weather\dist\app-weather.59712999.js133251910483106085 0
+55C:\IT PROJECTS\app-weather\dist\app-weather.59712999.js133252399088625881 0
 107C:\IT PROJECTS\app-weather\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module133251890283814026 1
 125C:\IT PROJECTS\app-weather\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up133251890286372438 1
 113C:\IT PROJECTS\app-weather\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\source-not-symlinked133251890287151961 1
@@ -5797,5 +5798,5 @@
 60C:\IT PROJECTS\app-weather\node_modules\.bin\tailwindcss.ps1133251893627445816 0
 51C:\IT PROJECTS\app-weather\node_modules\.bin\terser133251890335334027 0
 55C:\IT PROJECTS\app-weather\node_modules\.bin\terser.cmd133251890335334027 0
-59C:\IT PROJECTS\app-weather\dist\app-weather.59712999.js.map133251910483285992 0
-42C:\IT PROJECTS\app-weather\dist\index.html133251910483545816 0
+59C:\IT PROJECTS\app-weather\dist\app-weather.59712999.js.map133252399088705821 0
+42C:\IT PROJECTS\app-weather\dist\index.html133252399088832930 0
